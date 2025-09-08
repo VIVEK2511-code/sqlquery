@@ -1,0 +1,11 @@
+✅ Summary:
+
+Numbers → INT, DECIMAL, FLOAT
+
+Text → CHAR, VARCHAR, TEXT
+
+Dates → DATE, TIME, TIMESTAMP
+
+Boolean → TRUE/FALSE
+
+Binary → BLOB, VARBINARY
