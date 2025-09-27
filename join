@@ -1,0 +1,11 @@
+full join: full join means all the row from the both table
+
+left join: all the row from the  left table and only matchong row from the roght table
+
+right join: all the row from the right table and only matching row from the left table
+A RIGHT JOIN returns all rows from the right table, and matching rows from the left table.
+If there is no match, it still includes the row from the right table, but shows NULL for the left table’s columns.
+
+
+🧠 Definition of INNER JOIN
+An INNER JOIN returns only the rows that have matching values in both tables based on the join condition.
